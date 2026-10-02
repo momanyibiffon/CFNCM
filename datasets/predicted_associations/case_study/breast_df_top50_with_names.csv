@@ -1,0 +1,51 @@
+MiRNA,Disease,Score,mirna_name,Verification,,,,,,miRNA,Verification,,miRNA,Verification
+6,50,0.236586781,hsa-mir-29b,"dbDEMC, miR2Disease",,,,,,hsa-mir-29b,"dbDEMC, miR2Disease",,hsa-mir-30d,dbDEMC
+46,50,0.195290701,hsa-mir-221,"dbDEMC, miR2Disease",,,,,,hsa-mir-221,"dbDEMC, miR2Disease",,hsa-mir-365b,unverified
+117,50,0.18204434,hsa-let-7b,dbDEMC,,,,,,hsa-let-7b,dbDEMC,,hsa-mir-27a,"dbDEMC, miR2Disease"
+118,50,0.181881495,hsa-let-7c,dbDEMC,,,,,,hsa-let-7c,dbDEMC,,hsa-mir-126,"dbDEMC, miR2Disease"
+43,50,0.176261743,hsa-mir-20a,"dbDEMC, miR2Disease",,,,,,hsa-mir-20a,"dbDEMC, miR2Disease",,hsa-mir-1915,dbDEMC
+38,50,0.175548833,hsa-mir-200b,"dbDEMC, miR2Disease",,,,,,hsa-mir-200b,"dbDEMC, miR2Disease",,hsa-mir-320c,dbDEMC
+14,50,0.166729158,hsa-mir-21,"dbDEMC, miR2Disease",,,,,,hsa-mir-21,"dbDEMC, miR2Disease",,hsa-mir-133b,dbDEMC
+39,50,0.166074565,hsa-mir-200c,"dbDEMC, miR2Disease",,,,,,hsa-mir-200c,"dbDEMC, miR2Disease",,hsa-mir-31,"dbDEMC, miR2Disease"
+119,50,0.156857693,hsa-let-7d,"dbDEMC, miR2Disease",,,,,,hsa-let-7d,"dbDEMC, miR2Disease",,hsa-mir-22,"dbDEMC, miR2Disease"
+10,50,0.155588048,hsa-mir-145,"dbDEMC, miR2Disease",,,,,,hsa-mir-145,"dbDEMC, miR2Disease",,hsa-mir-1471,dbDEMC
+223,50,0.150362291,hsa-mir-218,dbDEMC,,,,,,hsa-mir-218,dbDEMC,,hsa-mir-1258,dbDEMC
+23,50,0.148297229,hsa-mir-10b,"dbDEMC, miR2Disease",,,,,,hsa-mir-10b,"dbDEMC, miR2Disease",,hsa-mir-200,unverified
+59,50,0.146651701,hsa-let-7e,dbDEMC,,,,,,hsa-let-7e,dbDEMC,,hsa-mir-148a,"dbDEMC, miR2Disease"
+230,50,0.139446231,hsa-mir-302b,dbDEMC,,,,,,hsa-mir-302b,dbDEMC,,hsa-mir-202,"dbDEMC, miR2Disease"
+251,50,0.134306499,hsa-mir-450b,unverified,,,,,,hsa-mir-450b,unverified,,hsa-mir-107,dbDEMC
+209,50,0.119304896,hsa-mir-1323,dbDEMC,,,,,,hsa-mir-1323,dbDEMC,,hsa-mir-183,dbDEMC
+13,50,0.119278379,hsa-mir-16,dbDEMC,,,,,,hsa-mir-16,dbDEMC,,hsa-mir-200a,"dbDEMC, miR2Disease"
+271,50,0.112067659,hsa-mir-608,dbDEMC,,,,,,hsa-mir-608,dbDEMC,,hsa-mir-298,dbDEMC
+45,50,0.111733513,hsa-mir-215,dbDEMC,,,,,,hsa-mir-215,dbDEMC,,hsa-mir-106b,dbDEMC
+121,50,0.107790656,hsa-mir-132,dbDEMC,,,,,,hsa-mir-132,dbDEMC,,hsa-mir-143,"dbDEMC, miR2Disease"
+237,50,0.101364535,hsa-mir-320e,dbDEMC,,,,,,hsa-mir-320e,dbDEMC,,hsa-mir-146a,"dbDEMC, miR2Disease"
+226,50,0.099961942,hsa-mir-2355,dbDEMC,,,,,,hsa-mir-2355,dbDEMC,,hsa-mir-510,"dbDEMC, miR2Disease"
+35,50,0.094707926,hsa-mir-194,dbDEMC,,,,,,hsa-mir-194,dbDEMC,,hsa-mir-519d,dbDEMC
+261,50,0.090290752,hsa-mir-516b,dbDEMC,,,,,,hsa-mir-516b,dbDEMC,,hsa-mir-3186,unverified
+229,50,0.090093706,hsa-mir-299,dbDEMC,,,,,,hsa-mir-299,dbDEMC,,hsa-mir-141,"dbDEMC, miR2Disease"
+155,50,0.088101384,hsa-mir-30d,dbDEMC,,,,,,,,,,
+241,50,0.08201364,hsa-mir-365b,unverified,,,,,,,,,,
+77,50,0.080445837,hsa-mir-27a,"dbDEMC, miR2Disease",,,,,,,,,,
+24,50,0.079475697,hsa-mir-126,"dbDEMC, miR2Disease",,,,,,,,,,
+218,50,0.078041864,hsa-mir-1915,dbDEMC,,,,,,,,,,
+82,50,0.077750189,hsa-mir-320c,dbDEMC,,,,,,,,,,
+17,50,0.071716796,hsa-mir-133b,dbDEMC,,,,,,,,,,
+50,50,0.071459723,hsa-mir-31,"dbDEMC, miR2Disease",,,,,,,,,,
+224,50,0.070979003,hsa-mir-22,"dbDEMC, miR2Disease",,,,,,,,,,
+212,50,0.069678752,hsa-mir-1471,dbDEMC,,,,,,,,,,
+207,50,0.069678752,hsa-mir-1258,dbDEMC,,,,,,,,,,
+220,50,0.069678752,hsa-mir-200,unverified,,,,,,,,,,
+69,50,0.068983553,hsa-mir-148a,"dbDEMC, miR2Disease",,,,,,,,,,
+221,50,0.06622566,hsa-mir-202,"dbDEMC, miR2Disease",,,,,,,,,,
+140,50,0.064967179,hsa-mir-107,dbDEMC,,,,,,,,,,
+31,50,0.06420027,hsa-mir-183,dbDEMC,,,,,,,,,,
+37,50,0.062144872,hsa-mir-200a,"dbDEMC, miR2Disease",,,,,,,,,,
+228,50,0.061701044,hsa-mir-298,dbDEMC,,,,,,,,,,
+120,50,0.060613789,hsa-mir-106b,dbDEMC,,,,,,,,,,
+9,50,0.06052173,hsa-mir-143,"dbDEMC, miR2Disease",,,,,,,,,,
+18,50,0.060247228,hsa-mir-146a,"dbDEMC, miR2Disease",,,,,,,,,,
+257,50,0.059131217,hsa-mir-510,"dbDEMC, miR2Disease",,,,,,,,,,
+263,50,0.059131217,hsa-mir-519d,dbDEMC,,,,,,,,,,
+233,50,0.059131217,hsa-mir-3186,unverified,,,,,,,,,,
+8,50,0.057299315,hsa-mir-141,"dbDEMC, miR2Disease",,,,,,,,,,
